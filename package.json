@@ -3,7 +3,7 @@
   "author": "Ultrasoft",
   "description": "A custom CKEditor 5 build",
   "version": "0.0.1",
-  "license": "SEE LICENSE IN LICENSE.md",
+  "license": "SEE LICENSE IN LICENSE",
   "private": true,
   "main": "./build/ckeditor.js",
   "devDependencies": {
